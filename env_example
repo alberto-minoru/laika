@@ -1,0 +1,12 @@
+# Arquivo de exemplo contendo os parametros mínimos para executar este projeto
+# Abra um shell (python manage.py shell) e execute os comandos abaixo para gerar
+# uma SECRET_KEY adequada:
+# >>> from django.core.management.utils import get_random_secret_key
+# >>> get_random_secret_key()
+
+SECRET_KEY=Chave_exemplo_!_Modifique_conforme_descrito_acima!
+ALLOWED_HOSTS=127.0.0.1,localhost
+
+# Outros possíveis parametros:
+# DEBUG=False
+# DATABASE_URL=sqlite:///db.sqlite3
